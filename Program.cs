@@ -10,21 +10,27 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите четырехзначное число");
-            int number = int.Parse(Console.ReadLine());
+            Console.WriteLine("Введите x центра");
+            int a = int.Parse(Console.ReadLine());
+            Console.WriteLine("Введите y центра");
+            int b = int.Parse(Console.ReadLine());
+            Console.WriteLine("Введите x вершины");
+            int c = int.Parse(Console.ReadLine());
+            Console.WriteLine("Введите y вершины");
+            int d = int.Parse(Console.ReadLine());
 
-            int a = number % 10;
-            int b = (number % 100 - number % 10) / 10;
-            int c = (number % 1000 - number % 100) / 100;
-            int d = number / 1000;
+            int stor = Math.Abs(a - c) * 2;
+            int sq = stor * stor;
+            int per = stor * 4;
 
 
-            Console.WriteLine("Число единиц: " + a);
-            Console.WriteLine("Число тысяч: " + d);
-            Console.Write("произведение цифр" + d * b * c * a);
+
+            Console.WriteLine("Площадь: " + sq);
+            Console.WriteLine("Периметр: " + per);
 
             Console.ReadKey();
 
         }
     }
 }
+
