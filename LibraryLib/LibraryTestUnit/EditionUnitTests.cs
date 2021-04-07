@@ -23,7 +23,7 @@ namespace LibraryTestUnit
         public void ToStringTestMethod()
         {
             var alice = CreateTestEdition();
-            Assert.AreEqual("Книга: Alice's Adventures in Wonderland. Автор(ы): Lewis Carroll.", alice.ToString());
+            Assert.AreEqual("РљРЅРёРіР°: Alice's Adventures in Wonderland. РђРІС‚РѕСЂ(С‹): Lewis Carroll.", alice.ToString());
         }
         [TestMethod]
         public void PrintInfoTestMethod()
@@ -31,7 +31,7 @@ namespace LibraryTestUnit
             
             var alice = CreateTestEdition();
             var sherlock = new Edition("Sherlock Holmes", "Arthur Conan Sir Doyle", 1986, "Bantam Classics", 147852369, Location.Home);
-            var consoleOut = new[] { "Книга: Alice's Adventures in Wonderland. Автор(ы): Lewis Carroll.", $"Год издания: 2020. Издатель: CreateSpace Independent Publishing Platform. Инвентарный номер: 165329768432. Статус: в хранилище.", "Книга: Sherlock Holmes. Автор(ы): Arthur Conan Sir Doyle.", $"Год издания: 1986. Издатель: Bantam Classics. Инвентарный номер: 147852369. Статус: выдана на дом." };
+            var consoleOut = new[] { "РљРЅРёРіР°: Alice's Adventures in Wonderland. РђРІС‚РѕСЂ(С‹): Lewis Carroll.", $"Р“РѕРґ РёР·РґР°РЅРёСЏ: 2020. РР·РґР°С‚РµР»СЊ: CreateSpace Independent Publishing Platform. РРЅРІРµРЅС‚Р°СЂРЅС‹Р№ РЅРѕРјРµСЂ: 165329768432. РЎС‚Р°С‚СѓСЃ: РІ С…СЂР°РЅРёР»РёС‰Рµ.", "РљРЅРёРіР°: Sherlock Holmes. РђРІС‚РѕСЂ(С‹): Arthur Conan Sir Doyle.", $"Р“РѕРґ РёР·РґР°РЅРёСЏ: 1986. РР·РґР°С‚РµР»СЊ: Bantam Classics. РРЅРІРµРЅС‚Р°СЂРЅС‹Р№ РЅРѕРјРµСЂ: 147852369. РЎС‚Р°С‚СѓСЃ: РІС‹РґР°РЅР° РЅР° РґРѕРј." };
 
 
             TextWriter oldOut = Console.Out;
