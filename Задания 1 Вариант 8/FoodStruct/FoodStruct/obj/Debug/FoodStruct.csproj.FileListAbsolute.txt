@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Задания Вариант 8\FoodStruct\FoodStruct\bin\Debug\FoodStruct.dll
+C:\Users\User\Desktop\Задания Вариант 8\FoodStruct\FoodStruct\bin\Debug\FoodStruct.pdb
+C:\Users\User\Desktop\Задания Вариант 8\FoodStruct\FoodStruct\obj\Debug\FoodStruct.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Задания Вариант 8\FoodStruct\FoodStruct\obj\Debug\FoodStruct.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Задания Вариант 8\FoodStruct\FoodStruct\obj\Debug\FoodStruct.dll
+C:\Users\User\Desktop\Задания Вариант 8\FoodStruct\FoodStruct\obj\Debug\FoodStruct.pdb
