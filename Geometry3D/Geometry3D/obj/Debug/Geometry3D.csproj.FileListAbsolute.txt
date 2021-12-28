@@ -1,0 +1,2 @@
+C:\Users\Тимур\Documents\GitHub\111\Geometry3D\Geometry3D\obj\Debug\Geometry3D.csprojAssemblyReference.cache
+C:\Users\Тимур\Documents\GitHub\111\Geometry3D\Geometry3D\obj\Debug\Geometry3D.csproj.CoreCompileInputs.cache
