@@ -152,6 +152,33 @@ namespace Geometry3DTests
             );
             AssertCuboidsEqual(cuboid, box);
         }
+		
+		[DataTestMethod]
+		[DataRow(1,2,3,4,5)]
+		[DataRow(1,2,4,8,16)]
+		public void Cone_ContainsPoint_IsCorrect(double x, double y, double z, double radius, double sizeZ)
+		{
+			var cylinder = new Cylinder(new Vector3(x, y, z), sizeZ, radius);
+            ContainsPoint_ComplexTest(cylinder, true, radius, radius, sizeZ / 2);
+            ContainsPoint_ComplexTest(cylinder, false, radius + 1, radius + 1, sizeZ / 2 + 1);
+		}
+		
+		[DataTestMethod]
+		[DataRow(1,2,3,4,5)]
+		[DataRow(2,3,4,5,6)]
+		public void Cone_BoundingBox_IsCorrect(double x, double y, double z, double radius, double sizeZ)
+		{
+			var cone = new Cone(new Vector3(x, y, z), sizeZ, radius);
+            var box = cylinder.GetBoundingBox();
+            var cuboid = new RectangularCuboid
+            (
+                cone.Position,
+                cone.Radius * 2,
+                cone.Radius * 2,
+                cone.SizeZ
+            );
+            AssertCuboidsEqual(cuboid, box);
+		}
 
         [DataTestMethod]
         [DataRow(0, 0, 0, 1)]
