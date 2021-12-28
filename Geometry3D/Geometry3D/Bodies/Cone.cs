@@ -23,4 +23,3 @@ namespace Geometry3D
     }
 }
 
-}
