@@ -1,0 +1,20 @@
+C:\Users\eliza\OneDrive\Рабочий стол\ugi206004-main (1)\ugi206004-main\PhotoEnhancer1\PhotoEnhancer\bin\Debug\PhotoEnhancer.exe.config
+C:\Users\eliza\OneDrive\Рабочий стол\ugi206004-main (1)\ugi206004-main\PhotoEnhancer1\PhotoEnhancer\bin\Debug\PhotoEnhancer.exe
+C:\Users\eliza\OneDrive\Рабочий стол\ugi206004-main (1)\ugi206004-main\PhotoEnhancer1\PhotoEnhancer\bin\Debug\PhotoEnhancer.pdb
+C:\Users\eliza\OneDrive\Рабочий стол\ugi206004-main (1)\ugi206004-main\PhotoEnhancer1\PhotoEnhancer\obj\Debug\PhotoEnhancer.csprojAssemblyReference.cache
+C:\Users\eliza\OneDrive\Рабочий стол\ugi206004-main (1)\ugi206004-main\PhotoEnhancer1\PhotoEnhancer\obj\Debug\PhotoEnhancer.MainForm.resources
+C:\Users\eliza\OneDrive\Рабочий стол\ugi206004-main (1)\ugi206004-main\PhotoEnhancer1\PhotoEnhancer\obj\Debug\PhotoEnhancer.Properties.Resources.resources
+C:\Users\eliza\OneDrive\Рабочий стол\ugi206004-main (1)\ugi206004-main\PhotoEnhancer1\PhotoEnhancer\obj\Debug\PhotoEnhancer.csproj.GenerateResource.cache
+C:\Users\eliza\OneDrive\Рабочий стол\ugi206004-main (1)\ugi206004-main\PhotoEnhancer1\PhotoEnhancer\obj\Debug\PhotoEnhancer.csproj.CoreCompileInputs.cache
+C:\Users\eliza\OneDrive\Рабочий стол\ugi206004-main (1)\ugi206004-main\PhotoEnhancer1\PhotoEnhancer\obj\Debug\PhotoEnhancer.exe
+C:\Users\eliza\OneDrive\Рабочий стол\ugi206004-main (1)\ugi206004-main\PhotoEnhancer1\PhotoEnhancer\obj\Debug\PhotoEnhancer.pdb
+C:\Users\eliza\OneDrive\Рабочий стол\3\ugi206004-main\PhotoEnhancer1\PhotoEnhancer\bin\Debug\PhotoEnhancer.exe.config
+C:\Users\eliza\OneDrive\Рабочий стол\3\ugi206004-main\PhotoEnhancer1\PhotoEnhancer\bin\Debug\PhotoEnhancer.exe
+C:\Users\eliza\OneDrive\Рабочий стол\3\ugi206004-main\PhotoEnhancer1\PhotoEnhancer\bin\Debug\PhotoEnhancer.pdb
+C:\Users\eliza\OneDrive\Рабочий стол\3\ugi206004-main\PhotoEnhancer1\PhotoEnhancer\obj\Debug\PhotoEnhancer.csprojAssemblyReference.cache
+C:\Users\eliza\OneDrive\Рабочий стол\3\ugi206004-main\PhotoEnhancer1\PhotoEnhancer\obj\Debug\PhotoEnhancer.MainForm.resources
+C:\Users\eliza\OneDrive\Рабочий стол\3\ugi206004-main\PhotoEnhancer1\PhotoEnhancer\obj\Debug\PhotoEnhancer.Properties.Resources.resources
+C:\Users\eliza\OneDrive\Рабочий стол\3\ugi206004-main\PhotoEnhancer1\PhotoEnhancer\obj\Debug\PhotoEnhancer.csproj.GenerateResource.cache
+C:\Users\eliza\OneDrive\Рабочий стол\3\ugi206004-main\PhotoEnhancer1\PhotoEnhancer\obj\Debug\PhotoEnhancer.csproj.CoreCompileInputs.cache
+C:\Users\eliza\OneDrive\Рабочий стол\3\ugi206004-main\PhotoEnhancer1\PhotoEnhancer\obj\Debug\PhotoEnhancer.exe
+C:\Users\eliza\OneDrive\Рабочий стол\3\ugi206004-main\PhotoEnhancer1\PhotoEnhancer\obj\Debug\PhotoEnhancer.pdb
